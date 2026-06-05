@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Blush Rose Coaching"
+theme = "custom"
+
+[params]
+  description = "Business coaching insights: goal setting, accountability, mindset, and client acquisition for coaches."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
