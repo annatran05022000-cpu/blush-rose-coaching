@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Blush Rose Coaching"
 date: 2026-06-01
 description: "Business coaching insights: goal setting, accountability, mindset, and client acquisition for coaches."
